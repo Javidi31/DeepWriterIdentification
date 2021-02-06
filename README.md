@@ -1,4 +1,4 @@
-# DeepWriterIdentification
+# Deep Writer Identification
 
 This is a [Keras](https://keras.io/) implementation of ResNet conjugated with classic descriptor.
 
