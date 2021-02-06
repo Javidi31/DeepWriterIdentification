@@ -9,9 +9,9 @@ Residual networks with HTD classic descriptor implementation using Keras-1.0 fun
 4. To train the ResNet model with HTD classic descriptor, run "TrainResNetHTD.py" in Python.
 5. To test with the best saved model, run "TestResNetHTD.py" in Python.
 
+**************************************************************************************************************************************************
+
 Good luck
-
-
 
 
 # Cite information
