@@ -1,5 +1,3 @@
-# Deep Writer Identification
-
 This is a [Keras](https://keras.io/) implementation of ResNet conjugated with classic descriptor.
 
 Residual networks with HTD classic descriptor implementation using Keras-1.0 functional API.
