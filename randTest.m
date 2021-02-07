@@ -1,11 +1,11 @@
 %Select Random Test Data
 
 clear; clc;
-src = 'Datasets\My_CERUG-EN_IMG\Test\';
-des = 'Datasets\My_CERUG-EN_IMG\Test_rand\';
+src = '\Datasets\My_CERUG-EN_IMG\Test\';
+des = '\Datasets\My_CERUG-EN_IMG\Test_rand\';
 
 srcDB = dir(src);
-maxNoTest = 500; 
+maxNoTest = 30; 
 for i=1:size(srcDB,1)-2
     scrFold  =  dir([src srcDB(i+2).name '\*.png']);
     imax     =  length(scrFold);
