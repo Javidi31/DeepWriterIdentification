@@ -18,5 +18,7 @@ Good luck
 
 # Cite information
 Malihe Javidi, Mahdi Jampour,
+
 A deep learning framework for text-independent writer identification,
+
 Engineering Applications of Artificial Intelligence, Volume 95, 2020, 103912, https://doi.org/10.1016/j.engappai.2020.103912.
