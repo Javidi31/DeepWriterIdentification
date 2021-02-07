@@ -5,7 +5,7 @@ clear; clc;
 
 
 src = '\Datasets\DB_CERUG-EN_IMG\Org_train\';
-dst = '\Datasets\DB_CERUG-EN_IMG\Merged_Tr\';
+dst = '\Datasets\DB_CERUG-EN_IMG\Train\';
 
 Folders = dir(src);
 
