@@ -1,6 +1,6 @@
 This is a [Keras](https://keras.io/) implementation of ResNet conjugated with classic descriptor.
 
-Residual networks with HTD classic descriptor implementation using Keras-1.0 functional API.
+Residual networks with HTD classic descriptor implementation using Keras-1.0 functional API. To know more about our proposed model, please read the [original paper](https://www.sciencedirect.com/science/article/abs/pii/S0952197620302463).
 
 1. Download ["CERUG-EN data set"](https://www.ai.rug.nl/~sheng/writeridataset.html), 
 2. As this dataset is word-base (unlike to the IAM, etc.), run ["Preparing.m"](https://github.com/Javidi31/DeepWriterIdentification/blob/main/Preparing.m) to merge words as a whole image for each subject.
@@ -17,8 +17,6 @@ Good luck
 
 
 # Cite information
-Malihe Javidi, Mahdi Jampour, 
-
-"A deep learning framework for text-independent writer identification,"
-
-Engineering Applications of Artificial Intelligence, Volume 95, 2020, https://doi.org/10.1016/j.engappai.2020.103912
+Malihe Javidi, Mahdi Jampour,
+A deep learning framework for text-independent writer identification,
+Engineering Applications of Artificial Intelligence, Volume 95, 2020, 103912, https://doi.org/10.1016/j.engappai.2020.103912.
