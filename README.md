@@ -20,4 +20,4 @@ Malihe Javidi, Mahdi Jampour,
 
 "A deep learning framework for text-independent writer identification,"
 
-Engineering Applications of Artificial Intelligence, Volume 95, 2020,(https://www.sciencedirect.com/science/article/abs/pii/S0952197620302463)
+Engineering Applications of Artificial Intelligence, Volume 95, 2020, doi.org/10.1016/j.engappai.2020.103912
