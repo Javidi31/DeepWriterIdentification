@@ -1,3 +1,5 @@
+# ResNet conjugate with Classic Descriptor - Keras
+
 This is a [Keras](https://keras.io/) implementation of ResNet conjugated with classic descriptor.
 
 Residual networks with HTD classic descriptor implementation using Keras-1.0 functional API. To know more about our proposed model, please read the [original paper](https://www.sciencedirect.com/science/article/abs/pii/S0952197620302463).
