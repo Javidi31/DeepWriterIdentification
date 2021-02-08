@@ -1,3 +1,7 @@
+% Created on Mon May 6 2019
+% Authors: Malihe Javidi. Email: m.javidi [at] qiet.ac.ir
+% Authors: Mahdi Jampour. Email: jampour [at] icg.tugraz.at
+
 function HTD()
     clear; clc;
 	
